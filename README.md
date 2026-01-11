@@ -1,4 +1,6 @@
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Prajakta%20Waghmare&fontSize=40)
+
+
 Prajakta Waghmare  
 Final-year B.Tech Computer Science Engineering student  
 Aspiring Data Analyst  
