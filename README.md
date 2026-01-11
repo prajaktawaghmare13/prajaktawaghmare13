@@ -6,7 +6,7 @@ Final-year B.Tech Computer Science Engineering student
 Aspiring Data Analyst  
 
 Nanded,Maharashtra, India  
-Email: pwaghmare@gmail.com  
+Email: pswaghmare04@gmail.com  
 LinkedIn: https://linkedin.com/in/prajaktawaghmare-992a53258  
 
 About Me  
@@ -65,5 +65,5 @@ GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username)
 Nanded
 LinkedIn: https://linkedin.com/in/prajaktawaghmare-992a53258  
-Email: pwaghmare@gmail.com
+Email: pswaghmare04@gmail.com
 
