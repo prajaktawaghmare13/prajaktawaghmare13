@@ -20,7 +20,6 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 
-
 ```python
 class DataAnalyst:
     def __init__(self):
@@ -47,6 +46,9 @@ class DataAnalyst:
     def current_focus(self):
         return "Transforming raw data into actionable insights"
 ```
+
+
+
 
 <br clear="right"/>
 
