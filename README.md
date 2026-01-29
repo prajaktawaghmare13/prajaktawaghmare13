@@ -1,4 +1,3 @@
-
 <div align="center">
 
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Prajakta%20Waghmare&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20CSE%20Student%20%7C%20Python%20Enthusiast&descAlignY=55&descSize=18)
@@ -16,11 +15,11 @@
 
 ---
 
-## 👩💻 About Me
+## 👩‍💻 About Me
 
 <table>
-<tr>
-<td width="60%">
+  <tr>
+    <td width="60%" valign="top">
 
 ```python
 class DataAnalyst:
@@ -49,11 +48,11 @@ class DataAnalyst:
         return "Transforming raw data into actionable insights"
 ```
 
-</td>
-<td width="40%">
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding" width="100%">
-</td>
-</tr>
+    </td>
+    <td width="40%" valign="middle">
+      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding" width="100%">
+    </td>
+  </tr>
 </table>
 
 I am a final-year Computer Science student with an interest in **data analysis** and **data visualization**.  
@@ -95,17 +94,13 @@ timeline
 
 ## 🛠️ Tech Stack
 
-
 <div align="center">
 
 <h3 align="center">💻 Programming & Analysis</h3>
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
 <h3 align="center">📊 Data Analysis & Visualization</h3>
-
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
@@ -113,13 +108,10 @@ timeline
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 <h3 align="center">🗄️ Databases</h3>
-
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 <h3 align="center">🔧 Tools & Technologies</h3>
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-DA5B0B?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
