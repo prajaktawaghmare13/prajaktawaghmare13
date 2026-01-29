@@ -17,7 +17,8 @@
 
 ## 👩‍💻 About Me
 
-<img align="right" alt="Coding" width="100" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+
 
 
 ```python
@@ -46,11 +47,8 @@ class DataAnalyst:
     def current_focus(self):
         return "Transforming raw data into actionable insights"
 ```
-
-
-
-
 <br clear="right"/>
+
 
 I am a final-year Computer Science student with an interest in **data analysis** and **data visualization**.  
 I enjoy working with real-world datasets to identify trends, patterns, and meaningful insights that support decision-making.
