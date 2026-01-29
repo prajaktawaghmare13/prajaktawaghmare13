@@ -1,3 +1,4 @@
+
 <div align="center">
 
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Prajakta%20Waghmare&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20CSE%20Student%20%7C%20Python%20Enthusiast&descAlignY=55&descSize=18)
@@ -15,11 +16,9 @@
 
 ---
 
-## 👩‍💻 About Me
+## 👩💻 About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-
-
+<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ```python
 class DataAnalyst:
@@ -47,8 +46,8 @@ class DataAnalyst:
     def current_focus(self):
         return "Transforming raw data into actionable insights"
 ```
-<br clear="right"/>
 
+<br clear="right"/>
 
 I am a final-year Computer Science student with an interest in **data analysis** and **data visualization**.  
 I enjoy working with real-world datasets to identify trends, patterns, and meaningful insights that support decision-making.
@@ -61,6 +60,9 @@ I have hands-on experience in **data cleaning**, **exploratory data analysis**, 
 
 <div align="center">
 
+<!-- Mermaid diagram moved outside or ensured blank lines -->
+</div>
+
 ```mermaid
 timeline
     title Academic Journey
@@ -69,9 +71,6 @@ timeline
     2024-2025 : Completed multiple data analysis projects
     2026 : Graduating with B.Tech CSE
 ```
-
-
-</div>
 
 <table align="center">
 <tr>
@@ -235,9 +234,6 @@ Currently working on exciting new data analysis projects!
 
 ## 💡 Skills Visualization
 
-<div align="center">
-
-
 ```mermaid
 mindmap
   root((Data Analysis))
@@ -259,8 +255,6 @@ mindmap
       Git
       GitHub
 ```
-
-</div>
 
 ---
 
