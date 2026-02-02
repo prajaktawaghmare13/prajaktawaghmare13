@@ -1,317 +1,67 @@
-<div align="center">
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Prajakta%20Waghmare&fontSize=40)
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Prajakta%20Waghmare&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20CSE%20Student%20%7C%20Python%20Enthusiast&descAlignY=55&descSize=18)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Final-year+B.Tech+CSE+Student;Aspiring+Data+Analyst;Turning+Data+into+Insights+%F0%9F%93%8A" alt="Typing SVG" />
+Prajakta Waghmare  
+Final-year B.Tech Computer Science Engineering student  
+Aspiring Data Analyst  
 
-<br/>
+Nanded,Maharashtra, India  
+Email: pswaghmare04@gmail.com  
+LinkedIn: https://linkedin.com/in/prajaktawaghmare-992a53258  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prajaktawaghmare-992a53258)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pswaghmare04@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prajaktawaghmare13)
-[![Location](https://img.shields.io/badge/Location-Nanded%2C%20Maharashtra-FF6B6B?style=for-the-badge&logo=google-maps&logoColor=white)](#)
+About Me  
 
-</div>
-
----
-
-## 👩‍💻 About Me
-
-<table>
-  <tr>
-    <td width="60%" valign="top">
-
-```python
-class DataAnalyst:
-    def __init__(self):
-
-        self.name = "Prajakta Waghmare"
-        self.role = "Aspiring Data Analyst"
-        self.education = "B.Tech CSE (2022-2026)"
-        self.location = "Nanded, Maharashtra, India"
-        self.interests = [
-            "Data Analysis",
-            "Data Visualization", 
-            "Machine Learning",
-            "Pattern Recognition"
-        ]
-    
-    def get_skills(self):
-        return {
-            "languages": ["Python", "SQL"],
-            "analysis": ["Pandas", "NumPy", "Excel"],
-            "visualization": ["Matplotlib", "Tableau"],
-            "databases": ["MongoDB"],
-            "tools": ["Git", "Jupyter", "GitHub"]
-        }
-    
-    def current_focus(self):
-        return "Transforming raw data into actionable insights"
-```
-
-    </td>
-    
-    <td width="40%" valign="middle">
-    
-      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding" width="100%">
-      
-    </td>
-  </tr>
-</table>
-
-I am a final-year Computer Science student with an interest in **data analysis** and **data visualization**.  
+I am a final-year Computer Science student with an interest in data analysis and data visualization.  
 I enjoy working with real-world datasets to identify trends, patterns, and meaningful insights that support decision-making.
 
-I have hands-on experience in **data cleaning**, **exploratory data analysis**, **visualization**, and **basic machine learning** through academic and personal projects.
+I have hands-on experience in data cleaning, exploratory data analysis, visualization, and basic machine learning through academic and personal projects.
 
----
+Education  
 
-## 🎓 Education
+B.Tech in Computer Science Engineering (2022–2026)
 
-<div align="center">
+Tech Stack  
 
-<!-- Mermaid diagram moved outside or ensured blank lines -->
-</div>
+Programming & Analysis  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)
 
-```mermaid
-timeline
-    title Academic Journey
-    2022 : Started B.Tech in Computer Science Engineering
-    2023-2024 : Built foundation in Data Analysis & Python
-    2024-2025 : Completed multiple data analysis projects
-    2026 : Graduating with B.Tech CSE
-```
+Data Analysis & Visualization  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 
-<table align="center">
-<tr>
-<td align="center" width="100%">
-<img src="https://img.shields.io/badge/B.Tech-Computer_Science_Engineering-blue?style=for-the-badge&logo=graduation-cap" />
-<br/><br/>
-<b>📅 Duration:</b> 2022 – 2026<br/>
-<b>🎯 Specialization:</b> Data Analysis & Machine Learning<br/>
-<b>📍 Location:</b> India
-</td>
-</tr>
-</table>
+Databases  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
----
+Tools  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-DA5B0B?style=flat&logo=jupyter&logoColor=white)
 
-## 🛠️ Tech Stack
+Projects  
 
-<div align="center">
+Industry Skill Insights  
+Analysis of job market data to identify in-demand skills  
+GitHub: https://github.com/prajaktawaghmare13/industry-skill-insights  
+Live: https://nbviewer.org/github/prajaktawaghmare13/industry-skill-insights  
 
-<h3 align="center">💻 Programming & Analysis</h3>
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+Sales Performance Analysis  
+Retail sales data analysis to understand trends and performance  
+GitHub: https://github.com/prajaktawaghmare13/sales-performance-analysis  
+Live: https://nbviewer.org/github/prajaktawaghmare13/sales-performance-analysis  
 
-<h3 align="center">📊 Data Analysis & Visualization</h3>
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+Electricity Consumption and Billing Analysis  
+Exploratory data analysis and prediction of electricity usage patterns  
+GitHub: https://github.com/prajaktawaghmare13/electricity-bill-analysis  
+Live: https://nbviewer.org/github/prajaktawaghmare13/electricity-bill-analysis  
 
-<h3 align="center">🗄️ Databases</h3>
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prajaktawaghmare13&show_icons=true)
 
-<h3 align="center">🔧 Tools & Technologies</h3>
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-DA5B0B?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username)
 
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-<h3 align="center">📈 Industry Skill Insights</h3>
-<img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-
-Analysis of job market data to identify in-demand skills
-
-**🔍 Key Features:**
-- Job market trend analysis
-- Skill demand visualization
-- Data-driven insights
-
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prajaktawaghmare13/industry-skill-insights)
-[![Live](https://img.shields.io/badge/View_Live-FF6B6B?style=for-the-badge&logo=jupyter&logoColor=white)](https://nbviewer.org/github/prajaktawaghmare13/industry-skill-insights)
-
-</td>
-<td width="50%">
-
-<h3 align="center">📈 Sales Performance Analysis</h3>
-<img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" />
-
-Retail sales data analysis to understand trends and performance
-
-**🔍 Key Features:**
-- Sales trend identification
-- Performance metrics
-- Visual dashboards
-
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prajaktawaghmare13/sales-performance-analysis)
-[![Live](https://img.shields.io/badge/View_Live-FF6B6B?style=for-the-badge&logo=jupyter&logoColor=white)](https://nbviewer.org/github/prajaktawaghmare13/sales-performance-analysis)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-<h3 align="center">⚡ Electricity Consumption Analysis</h3>
-<img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/ML-Prediction-orange?style=flat-square" />
-
-Exploratory data analysis and prediction of electricity usage patterns
-
-**🔍 Key Features:**
-- Consumption pattern analysis
-- Predictive modeling
-- Billing insights
-
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prajaktawaghmare13/electricity-bill-analysis)
-[![Live](https://img.shields.io/badge/View_Live-FF6B6B?style=for-the-badge&logo=jupyter&logoColor=white)](https://nbviewer.org/github/prajaktawaghmare13/electricity-bill-analysis)
-
-</td>
-<td width="50%">
-
-<h3 align="center">🎯 More Projects Coming Soon...</h3>
-<img src="https://img.shields.io/badge/Status-In_Progress-yellow?style=flat-square" />
-
-Currently working on exciting new data analysis projects!
-
-**🔍 Focus Areas:**
-- Advanced ML models
-- Real-time data analysis
-- Interactive dashboards
-
-[![GitHub](https://img.shields.io/badge/Follow_for_Updates-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prajaktawaghmare13)
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=prajaktawaghmare13&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=EC4899&text_color=FFFFFF" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=prajaktawaghmare13&theme=radical&hide_border=true&background=0D1117&stroke=8B5CF6&ring=EC4899&fire=F59E0B&currStreakLabel=FFFFFF" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajaktawaghmare13&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=prajaktawaghmare13&theme=react-dark&hide_border=true&bg_color=0D1117&color=8B5CF6&line=EC4899&point=F59E0B" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=prajaktawaghmare13&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prajaktawaghmare13&custom_title=Prajakta's%20Contribution%20Graph&bg_color=0D1117&color=8B5CF6&line=EC4899&point=F59E0B&area_color=8B5CF6&area=true&hide_border=true)
-
-</div>
-
----
-
-## 💡 Skills Visualization
-
-```mermaid
-mindmap
-  root((Data Analysis))
-    Programming
-      Python
-      SQL
-    Analysis Tools
-      Pandas
-      NumPy
-      Excel
-    Visualization
-      Matplotlib
-      Tableau
-      Dashboards
-    Database
-      MongoDB
-      Query Optimization
-    Version Control
-      Git
-      GitHub
-```
-
----
-
-## 🎯 Current Focus
-
-<div align="center">
-
-| Area | Status | Progress |
-|------|--------|----------|
-| 📊 Advanced Data Visualization | Active | ![80%](https://progress-bar.dev/80?color=8B5CF6) |
-| 🤖 Machine Learning | Learning | ![60%](https://progress-bar.dev/60?color=EC4899) |
-| 📈 Statistical Analysis | Active | ![75%](https://progress-bar.dev/75?color=06B6D4) |
-| 🗄️ Database Optimization | Learning | ![50%](https://progress-bar.dev/50?color=10B981) |
-
-</div>
-
----
-
-## 📫 Let's Connect!
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=EC4899&center=true&vCenter=true&random=false&width=600&lines=Always+open+to+collaboration!;Let's+turn+data+into+insights+together!;Feel+free+to+reach+out!" alt="Typing SVG" />
-
-<br/><br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prajaktawaghmare-992a53258)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pswaghmare04@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prajaktawaghmare13)
-
-<br/>
-
-### 💬 Open to opportunities in:
-`Data Analysis` • `Business Intelligence` • `Data Visualization` • `Machine Learning`
-
-</div>
-
----
-
-<div align="center">
-
-<h3 align="center">👀 Profile Views</h3>
-
-![Visitor Count](https://profile-counter.glitch.me/prajaktawaghmare13/count.svg)
-
-<h3 align="center">⭐ Show some love by starring my repositories!</h3>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
-
-</div>
+LinkedIn: https://linkedin.com/in/prajaktawaghmare-992a53258  
+Email: pswaghmare04@gmail.com
